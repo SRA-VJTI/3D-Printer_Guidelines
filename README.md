@@ -1,2 +1,3 @@
 # 3D-Printer_Guidelines
-Blog illustrating the nitty-gritty of 3D printer maintenance.
+> Having a 3D printer is like having a cat, it eats your food and litters on you.
+
